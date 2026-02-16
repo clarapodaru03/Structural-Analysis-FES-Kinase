@@ -2,6 +2,8 @@
 
 This project provides an automated R script to extract and analyze structural features from **AlphaFold2** protein models. It is designed to evaluate model confidence, protein compactness, and residue-level flexibility.
 
+AlphaFold link: https://alphafold.com/entry/AF-P07332-F1 
+
 ## Features
 
 The pipeline performs the following tasks:
